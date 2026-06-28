@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0024/SBCK/v1/juan/13
+seq: 13
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雜
+  hash: sha256:7a8b540563101f39856a2c9902fea1a7db89aca30ecd08d44105b4d1e5d07bc2
+metadata:
+  title: 漢上易傳
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-24 21:54:10.430745'
+  source:
+    repository: kanripo
+    path: KR1a0024/KR1a0024_013.txt
+hash: sha256:d8244ac5d27ab5ccd13764c635241090df553e98ac56b6870003ec432ce78be3
