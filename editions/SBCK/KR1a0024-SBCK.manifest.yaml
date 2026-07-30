@@ -19,11 +19,11 @@ assets:
   parts:
   - {seq: 0, filename: KR1a0024_000-SBCK.yaml, hash: 'sha256:dcc08a300f036db9942e2128038c3b9e981811b4278b0dc7f499763ff075b4da'}
   - {seq: 1, filename: KR1a0024_001-SBCK.yaml, hash: 'sha256:80920cbec321bf363a81ec80ad5616597855bd69e9451bef7b69d84599c34646'}
-  - {seq: 2, filename: KR1a0024_002-SBCK.yaml, hash: 'sha256:e8bfe36db4c045b716c4b9cca69830eab3f70cac48295e060ff18b0bec8d3dbe'}
+  - {seq: 2, filename: KR1a0024_002-SBCK.yaml, hash: 'sha256:6b8413f0e2007fc116b1123b4fc383b3bae4cb6e61da2dc1130afe055ebfebff'}
   - {seq: 3, filename: KR1a0024_003-SBCK.yaml, hash: 'sha256:24fb1900943b739eb61961e956ee474ff196e5c4010c96fab124188217361cc6'}
   - {seq: 4, filename: KR1a0024_004-SBCK.yaml, hash: 'sha256:feb71170de48fadd7e53081833c67bf41a8fa5041a09a09f8e863a12d14ce97f'}
   - {seq: 5, filename: KR1a0024_005-SBCK.yaml, hash: 'sha256:27e3db43ac03a0b9f91c89e6331a8134f2a531d6c5f42a4698030340225d6a6e'}
-  - {seq: 6, filename: KR1a0024_006-SBCK.yaml, hash: 'sha256:d37ccd1759c8a758eda85a7eaa5fef22f0acd74160509a3446818089a4996cd7'}
+  - {seq: 6, filename: KR1a0024_006-SBCK.yaml, hash: 'sha256:174fd57c11a62027932f101fc7a981378702ff0c47362376f6eef940afea41c7'}
   - {seq: 7, filename: KR1a0024_007-SBCK.yaml, hash: 'sha256:b8d9992e8c4473d04c38a13152cecbe9fc5745345aed42d234deb579f546752a'}
   - {seq: 8, filename: KR1a0024_008-SBCK.yaml, hash: 'sha256:563379bf3a646af054c3cb2a5cc122c12ab5082b2d9da3ea9196be5ba83e952f'}
   - {seq: 9, filename: KR1a0024_009-SBCK.yaml, hash: 'sha256:9ad881da992499727aaeb92dca70566811804b8cf8743e1cb967ec1a745e1b85'}
@@ -36,11 +36,11 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR1a0024_000-SBCK.markers.yaml, hash: 'sha256:57aa814ccf1777fba396b91b64283ebf2ec63eff9d762a85353a4aa11f3319c1'}
   - {seq: 1, role: markers, filename: assets/KR1a0024_001-SBCK.markers.yaml, hash: 'sha256:78d7e1d3f87742bd021b6e84e670175fde434da14fc3521763b5e949f9784284'}
-  - {seq: 2, role: markers, filename: assets/KR1a0024_002-SBCK.markers.yaml, hash: 'sha256:d244d19ca21b58a05eaf3498e3075fef52f1b1a45d9ba2ee5da3695daf228ee4'}
+  - {seq: 2, role: markers, filename: assets/KR1a0024_002-SBCK.markers.yaml, hash: 'sha256:3e18f7a248f8614484dac664140705ffeaf68e6d1f84e96e9ef5edf65a810611'}
   - {seq: 3, role: markers, filename: assets/KR1a0024_003-SBCK.markers.yaml, hash: 'sha256:438ddc0d38004ce6da933a0a8beb4e653021fd8c918d9d3f31fdfcd6da25e439'}
   - {seq: 4, role: markers, filename: assets/KR1a0024_004-SBCK.markers.yaml, hash: 'sha256:5a9d86418f7300544e617a47f23b1794645596e23212f8677c68812acc210902'}
   - {seq: 5, role: markers, filename: assets/KR1a0024_005-SBCK.markers.yaml, hash: 'sha256:6258ddde4f27e245304a3e0c113c41d44b42c3b7abfeb17e1bc714701b2b1542'}
-  - {seq: 6, role: markers, filename: assets/KR1a0024_006-SBCK.markers.yaml, hash: 'sha256:992f59dbd58ccf8789690dc2348baa85bf521d618229359160eb48af2cf2122e'}
+  - {seq: 6, role: markers, filename: assets/KR1a0024_006-SBCK.markers.yaml, hash: 'sha256:36968567b6993c48e83964f5e1c356b54dfd65cffa73fe5e93e5758dafdcc799'}
   - {seq: 7, role: markers, filename: assets/KR1a0024_007-SBCK.markers.yaml, hash: 'sha256:22fd8150f9c1c41ca380c15029b3c8c1d7b78705976231543100a0db91258f04'}
   - {seq: 8, role: markers, filename: assets/KR1a0024_008-SBCK.markers.yaml, hash: 'sha256:d51bfde09ae268931e685f1bc3ca271a54baecf4e5d3f69b3bacd8f6bc20cc6a'}
   - {seq: 9, role: markers, filename: assets/KR1a0024_009-SBCK.markers.yaml, hash: 'sha256:77b74d5169c55a265f537f05e04df6134239ce218cc59e13667378dc158b637d'}
@@ -76,8 +76,8 @@ table_of_contents:
     marker_id: KR1a0024_SBCK_001-65b
     span:
     - body
-    - 0
-    - 17711
+    - 551
+    - 18262
   label: juan 002
   type: section
   level: 1
@@ -116,8 +116,8 @@ table_of_contents:
     marker_id: KR1a0024_SBCK_006-15a
     span:
     - body
-    - 0
-    - 13197
+    - 298
+    - 13495
   label: juan 006
   type: section
   level: 1
@@ -211,4 +211,4 @@ table_of_contents:
   label: juan 015
   type: section
   level: 1
-hash: sha256:8f22cb07fdde91518f985b48e8ab9609403138e63cf4d302ac1230468d100290
+hash: sha256:0e6879bb7ad1878a6bd2b34aec71575b4938765ff93ac3d72b0436dc24ea8c99
